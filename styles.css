@@ -3,19 +3,16 @@
 
 .main-table{
 	border:1px solid black;
-	padding:0;
-	margin:0;
-	gap:0;
 }
 .nested-table1,.nested-table2,.nested-table3,.nested-table4{
 	border:1px solid black;
 }
 .nested-table1,.nested-table2{
 	width:300px;
-	height:300px
+	height:350px
 }
 
 .nested-table3,.nested-table4{
 	width:300px;
-	height:150px;
+	height:200px;
 }
