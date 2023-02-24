@@ -8,6 +8,8 @@
 
 .nested-table1 ,.nested-table2, .nested-table3, .nested-table4{
     border:2px solid black;
+	width:100%;
+	height:auto;
 
 }
 tr,th,td{
