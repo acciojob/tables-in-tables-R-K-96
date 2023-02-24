@@ -7,15 +7,14 @@
 }
 
 .nested-table1 ,.nested-table2, .nested-table3, .nested-table4{
-    border:2px solid black;
+    border:1px solid black;
 	width:100%;
 	height:auto;
 
 }
 tr,th,td{
 
-    border:2px solid black;
-
+    border: 1px solid black;
 }
 
 .last{
