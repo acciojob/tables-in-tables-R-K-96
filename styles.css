@@ -10,12 +10,13 @@
 .nested-table1 ,.nested-table2, .nested-table3, .nested-table4{
     border:1px solid black;
 	width:100%;
+	margin-top:30px;
+	margin-bottom:30px;
 	
 
 }
 .nested-table1{
-	margin-top:40px;
-	margin-bottom:40px;
+	
 }
 tr,th,td{
 	text-align: center;
